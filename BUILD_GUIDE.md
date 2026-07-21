@@ -1,4 +1,5 @@
 Cadence: Build Guide (20th → 25th July)
+
 Day 1- Today, 20th: Get the agent talking
 Goal by end of day: you can have a live voice conversation with your agent in the browser, and it can look up a fake order.
 Sign up / log into the OneInbox dashboard, grab your API key (Settings → API Keys).
